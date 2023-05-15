@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -aLR 1 | tail -1
+find . -type d ! -path . -print | wc -1
