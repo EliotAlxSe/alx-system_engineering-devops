@@ -1,2 +1,2 @@
-#!/bincdcdplcpdlcdcplcpdcldcdcdcdcd/bash
-tree -aLlR 1 | tail -1
+#!/bin/bash
+tree -aLR 1 | tail -1
