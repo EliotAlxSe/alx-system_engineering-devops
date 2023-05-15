@@ -1,2 +1,2 @@
 #!/bin/bash
-greo -i "root" /etc/passwd | wc -n 3
+greo -iA 3 "root" /etc/passwd | wc -l
